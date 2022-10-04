@@ -8,7 +8,7 @@
 
 **LEFT JOIN** *simples* - Busca informações principais (from) na tabela 1 e caso tenha informações em comum na tabela 2, traz também.
 
-![image-20221003200227275](C:\Users\elisa\AppData\Roaming\Typora\typora-user-images\image-20221003200227275.png)
+![left join.jpg](C:\desktop\estudos\sql\ProjetosSQL\SQL\Aulas\left join.jpg)
 
 
 
